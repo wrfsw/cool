@@ -3,7 +3,9 @@ Packing List
 - Shoes
 - Jackets
 - Underwear
+- camera
 
 Picnic
 ------------
 - Bread
+- Ham
