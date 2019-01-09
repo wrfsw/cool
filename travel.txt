@@ -2,3 +2,8 @@ Packing List
 ------------
 - Shoes
 - Jackets
+- Underwear
+
+Picnic
+------------
+- Bread
